@@ -3,7 +3,7 @@
 
 A compact, full-stack multimodal AI studio for image, video and audio generation and composition — optimized for AMD ROCm acceleration and Google Gemini integration. This repository contains the web UI, server glue, and developer tooling to run and iterate locally.
 
-View the live app in AI Studio: https://ai.studio/apps/e875c466-5153-470d-a07c-ee9c98a7a8ac
+
 
 **Contents:** quickstart, pipeline overview, repo layout, assets & credits.
 
@@ -88,12 +88,4 @@ This project integrates models and assets from various upstream projects. Respec
 - Gemini / Google AI integration: follow Google API terms for `GEMINI_API_KEY` usage.
 - ROCm-related packages and performance tooling: AMD ROCm project and related wheels.
 
-If you'd like, I can:
 
-- add a short developer guide for contributing new components to `src/components/`
-- create a `docs/` folder with screenshots and pipeline diagrams
-- add a `Makefile` or `npm` task to automate export and profiling steps
-
----
-
-Last updated: Radeon.Aura README
